@@ -27,4 +27,4 @@ Olá! Eu sou Carlos Junior ;)
 
 - Vamos construir coisas incríveis juntos! (-'-')b
 
-![snake gif](https://github.com/CarlosDVSS/CarlosDVSS/blob/output/github-contribution-grid-snake.svg)
+
