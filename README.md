@@ -26,3 +26,5 @@ Olá! Eu sou Carlos Junior ;)
 - Estou sempre em busca de aprendizado contínuo. No meu perfil do GitHub, compartilho meus projetos e exercícios para demonstrar meu conhecimento e paixão pela programação.
 
 - Vamos construir coisas incríveis juntos! (-'-')b
+
+![snake gif](https://github.com/CarlosDVSS/CarlosDVSS/blob/output/github-contribution-grid-snake.svg)
