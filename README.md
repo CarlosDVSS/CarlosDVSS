@@ -19,7 +19,7 @@ Olá! Eu sou Carlos Junior ;)
   </a>
 </div>
 
-![snake gif](https://github.com/CarlosDVSS/CarlosDVSS/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/CarlosDVSS/CarlosDVSS/blob/main/github-contribution-grid-snake.svg)
 
 - Um desenvolvedor fullstack Python com práticas de desenvolvimento ágil e colaborativo.
 
